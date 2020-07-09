@@ -1,2 +1,2 @@
-export { default as Foo } from './Foo';
-export { default as Foo2 } from './Foo2';
+export { default as Java } from './Java';
+export { default as 生活 } from './生活';
